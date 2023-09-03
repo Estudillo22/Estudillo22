@@ -1,7 +1,7 @@
 # Hola, bienvenido a mi perfil. 👋
 ## Soy Alberto Estudillo Moreno.
 
-Tengo 22 años, soy originario de Tuxtla Gutierrez, Chiapas, no le llamo hot dog a una torta, yo soy normal.
+Tengo 22 años, soy originario de Tuxtla Gutierrez, Chiapas.
 Actualmente me encuentro cursando mi ultimo semestre de la Licenciatura en Ingeniería Física en la Facultad de Ciencias en Física y Matemáticas en la Universidad Autónoma de Chiapas.
 
 ## 🎯 SKILLS
